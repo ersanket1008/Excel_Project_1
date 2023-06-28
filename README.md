@@ -11,12 +11,12 @@ This project done using Excel to analyze data for AtliQ Hardware, a manufacturin
 
 2] P & L by month
 
-### More about Project:-
+## More about Project:-
 
 https://www.linkedin.com/posts/sanket-patil-99a678277_course-bootcamp-dataanalytics-activity-7079005013703860224-ESC2?utm_source=share&utm_medium=member_desktop
 
 
-### Let’s connect on LinkedIn & share  experience & knowledge in the data field. I’m always eager to learn from others & collaborate on exciting projects. Let's unlock the potential of data together, feel free to connect on LinkedIn with me here.
+## Let’s connect on LinkedIn & share  experience & knowledge in the data field. I’m always eager to learn from others & collaborate on exciting projects. Let's unlock the potential of data together, feel free to connect on LinkedIn with me here.
 
 https://www.linkedin.com/in/sanket-patil-99a678277
 
